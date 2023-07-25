@@ -1,0 +1,37 @@
+body{
+    margin: auto;
+    padding: 0;
+}  
+    
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(14, 41, 160);
+    font-size: 48px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(14, 41, 160);
+    font-size: 18px;
+    text-align: center;
+}
+
+.foto{
+    
+    padding-left: 35px;    
+}
+
+#botao-bonito{
+    color: rgb(241, 244, 247);
+    font-size: 12px;
+    margin-left: 35px;
+    padding-left: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 35px;
+    background-color: rgb(14, 41, 160);
+    text-decoration: none;
+    
+        
+}
